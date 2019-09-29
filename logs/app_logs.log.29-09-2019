@@ -1,0 +1,9 @@
+{"level":"info","message":"server started -  3000","timestamp":"2019-09-29T11:31:00.215Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-09-29T11:31:00.228Z"}
+{"level":"info","message":"\u001b[0mGET /ping \u001b[31m500 \u001b[0m11.471 ms - 1965\u001b[0m\n","timestamp":"2019-09-29T11:31:16.162Z"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[31m500 \u001b[0m1.001 ms - 1965\u001b[0m\n","timestamp":"2019-09-29T11:31:16.359Z"}
+{"level":"info","message":"responding to ping ...","timestamp":"2019-09-29T11:31:38.860Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/ping \u001b[32m200 \u001b[0m3.864 ms - 5\u001b[0m\n","timestamp":"2019-09-29T11:31:38.864Z"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[31m500 \u001b[0m1.290 ms - 1965\u001b[0m\n","timestamp":"2019-09-29T11:31:38.920Z"}
+{"level":"info","message":"server started -  3000","timestamp":"2019-09-29T11:57:31.582Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-09-29T11:57:31.598Z"}
